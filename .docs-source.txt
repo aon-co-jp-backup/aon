@@ -1,3 +1,3 @@
 source: aon-co-jp/aon
-commit: 4f86e45c342765b4229e55e95cc16dfff28d069d
-updated: 2026-11-20T05:24:43Z
+commit: 8603b8eb78c8b9a2d2b5af19b9d821f8eb7e6db1
+updated: 2026-11-24T10:45:12Z

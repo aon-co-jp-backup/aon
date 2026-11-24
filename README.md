@@ -1,3 +1,5 @@
+> Latest translations / 翻訳の最新版: [0-LATEST-TRANSLATIONS.md](0-LATEST-TRANSLATIONS.md)
+
 # aon (旧称: open-aruaru-runo-iLumi)
 
 🏢 GitHub organization: **[aon-co-jp](https://github.com/aon-co-jp)**
